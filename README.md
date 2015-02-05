@@ -5,7 +5,7 @@ How do we make the IDE more like real life - live, direct, and fun!
 
 Source Code
 ------------------
-The LivingCode package is hosted at http://smalltalkhub.com/#!/~SeanDeNigris/SeansPlayground. This github repo is for documentation, issue tracking, etc.
+The LivingCode package is hosted at http://smalltalkhub.com/#!/~SeanDeNigris/LivingCode. This github repo is for documentation, issue tracking, etc.
 
 Installation
 ------------------
