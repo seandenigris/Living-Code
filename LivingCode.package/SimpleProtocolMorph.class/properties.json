@@ -1,0 +1,19 @@
+{
+	"category" : "LivingCode-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "SeanDeNigris 2/13/2014 19:40",
+	"instvars" : [
+		"toggleMorph",
+		"isExpanded",
+		"object",
+		"title",
+		"titleMorph",
+		"headerMorph" ],
+	"name" : "SimpleProtocolMorph",
+	"pools" : [
+		 ],
+	"super" : "Morph",
+	"type" : "normal" }

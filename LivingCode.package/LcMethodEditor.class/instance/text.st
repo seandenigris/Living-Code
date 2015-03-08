@@ -1,0 +1,4 @@
+compiling
+text
+
+	^ self source.

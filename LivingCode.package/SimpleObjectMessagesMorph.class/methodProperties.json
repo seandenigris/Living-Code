@@ -1,0 +1,20 @@
+{
+	"class" : {
+		"on:" : "SeanDeNigris 1/28/2014 18:36",
+		"openOn:" : "SeanDeNigris 1/28/2014 18:36" },
+	"instance" : {
+		"addMessageSendMorphOn:" : "SeanDeNigris 1/26/2011 21:43",
+		"delete" : "SeanDeNigris 1/28/2014 13:56",
+		"handlesMouseDown:" : "SeanDeNigris 1/25/2011 14:15",
+		"initialize" : "SeanDeNigris 1/28/2014 18:35",
+		"messageMorphs" : "SeanDeNigris 1/26/2011 21:58",
+		"messageSendMorphOn:of:" : "SeanDeNigris 1/28/2014 18:39",
+		"messagesUnderstoodBy:" : "SeanDeNigris 2/13/2014 21:11",
+		"morphForMessage:" : "SeanDeNigris 11/23/2011 17:32",
+		"mouseDown:" : "SeanDeNigris 1/25/2011 14:41",
+		"object" : "SeanDeNigris 1/25/2011 14:55",
+		"object:" : "SeanDeNigris 2/13/2014 21:23",
+		"protocols" : "SeanDeNigris 2/13/2014 21:09",
+		"showMenu" : "SeanDeNigris 1/25/2011 15:07",
+		"update:" : "SeanDeNigris 1/26/2011 21:43",
+		"yellowButtonActivity" : "SeanDeNigris 1/25/2011 14:20" } }

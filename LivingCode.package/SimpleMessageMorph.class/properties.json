@@ -1,0 +1,17 @@
+{
+	"category" : "LivingCode-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"selector",
+		"object",
+		"arguments",
+		"toolbar" ],
+	"name" : "SimpleMessageMorph",
+	"pools" : [
+		 ],
+	"super" : "Morph",
+	"type" : "normal" }

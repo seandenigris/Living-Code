@@ -1,0 +1,4 @@
+*LivingCode-Core
+isLivingObject
+
+	^ false

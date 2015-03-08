@@ -1,0 +1,1 @@
+I am not sure why I would be prefered over SimpleObjectMorph

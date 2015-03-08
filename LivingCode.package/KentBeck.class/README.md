@@ -1,0 +1,1 @@
+I think I was starting to reify the suggestions from Best Practice Patterns.

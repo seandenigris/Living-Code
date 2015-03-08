@@ -1,0 +1,23 @@
+{
+	"class" : {
+		"sending:to:" : "SeanDeNigris 1/28/2014 15:08" },
+	"instance" : {
+		"addArgumentMorphFor:" : "SeanDeNigris 2/4/2015 14:59",
+		"addLabel:" : "SeanDeNigris 2/4/2015 14:53",
+		"browseMethod" : "SeanDeNigris 10/2/2014 19:15",
+		"delete" : "SeanDeNigris 1/28/2014 15:02",
+		"handlesMouseDown:" : "SeanDeNigris 11/23/2011 17:36",
+		"initialize" : "SeanDeNigris 11/5/2014 00:41",
+		"mouseUp:" : "SeanDeNigris 10/2/2014 19:13",
+		"newBrowseButton" : "SeanDeNigris 11/4/2014 21:51",
+		"newEditor" : "SeanDeNigris 11/7/2014 13:09",
+		"object" : "SeanDeNigris 1/26/2011 22:08",
+		"object:" : "SeanDeNigris 1/28/2014 15:09",
+		"panel" : "SeanDeNigris 2/4/2015 14:53",
+		"resetSubmorphs" : "SeanDeNigris 2/4/2015 14:58",
+		"selector" : "SeanDeNigris 1/26/2011 22:05",
+		"selector:" : "SeanDeNigris 1/28/2014 15:09",
+		"sendMessage" : "SeanDeNigris 10/2/2014 19:13",
+		"showSourceCode" : "SeanDeNigris 11/5/2014 00:25",
+		"styler" : "SeanDeNigris 1/28/2014 15:29",
+		"update:" : "SeanDeNigris 1/28/2014 15:11" } }

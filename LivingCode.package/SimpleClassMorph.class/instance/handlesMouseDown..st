@@ -1,0 +1,4 @@
+private
+handlesMouseDown: evt 
+
+	^ true.

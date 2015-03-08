@@ -1,0 +1,1 @@
+I represent a list of messages that are understood by an object.

@@ -1,0 +1,14 @@
+{
+	"category" : "LivingCode-UI",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "RadarView",
+	"pools" : [
+		 ],
+	"super" : "ComposableModel",
+	"type" : "normal" }

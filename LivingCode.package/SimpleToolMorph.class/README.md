@@ -1,0 +1,1 @@
+Utility methods are provided on the class side to style any Morphs like the SimpleTools.

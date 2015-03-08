@@ -1,0 +1,9 @@
+SystemOrganization addCategory: #LivingCode!
+SystemOrganization addCategory: 'LivingCode-Core'!
+SystemOrganization addCategory: 'LivingCode-Core-Experiments'!
+SystemOrganization addCategory: 'LivingCode-Core-Specification'!
+SystemOrganization addCategory: 'LivingCode-Core-Support'!
+SystemOrganization addCategory: 'LivingCode-Magritte'!
+SystemOrganization addCategory: 'LivingCode-Other'!
+SystemOrganization addCategory: 'LivingCode-Specifications'!
+SystemOrganization addCategory: 'LivingCode-UI'!

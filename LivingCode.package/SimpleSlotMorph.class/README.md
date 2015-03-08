@@ -1,0 +1,1 @@
+(self label: 'class' pointsTo: Object) openInWorld.

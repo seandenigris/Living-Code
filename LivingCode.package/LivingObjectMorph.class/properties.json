@@ -1,0 +1,14 @@
+{
+	"category" : "LivingCode-Core-Experiments",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "SeanDeNigris 1/28/2014 15:23",
+	"instvars" : [
+		"object" ],
+	"name" : "LivingObjectMorph",
+	"pools" : [
+		 ],
+	"super" : "Morph",
+	"type" : "normal" }

@@ -1,0 +1,14 @@
+{
+	"category" : "LivingCode-Core-Support",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "RadarMorph",
+	"pools" : [
+		 ],
+	"super" : "Morph",
+	"type" : "normal" }

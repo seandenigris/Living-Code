@@ -1,0 +1,4 @@
+private
+modelClass
+
+	^ #PinMorph asClass.

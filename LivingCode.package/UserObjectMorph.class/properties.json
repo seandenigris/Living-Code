@@ -1,0 +1,16 @@
+{
+	"category" : "LivingCode-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "SeanDeNigris 1/28/2014 15:30",
+	"instvars" : [
+		"object",
+		"displayBehavior",
+		"controlsMorph" ],
+	"name" : "UserObjectMorph",
+	"pools" : [
+		 ],
+	"super" : "Morph",
+	"type" : "normal" }

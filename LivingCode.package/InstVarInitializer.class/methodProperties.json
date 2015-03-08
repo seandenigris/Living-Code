@@ -1,0 +1,18 @@
+{
+	"class" : {
+		"disable" : "SeanDeNigris 3/3/2014 14:57",
+		"enable" : "SeanDeNigris 3/3/2014 15:16",
+		"initialize:of:" : "SeanDeNigris 3/3/2014 16:56",
+		"uniqueInstance" : "SeanDeNigris 3/3/2014 14:58" },
+	"instance" : {
+		"addInitializationStatement" : "SeanDeNigris 3/3/2014 17:58",
+		"basicExecute" : "SeanDeNigris 3/3/2014 17:57",
+		"classModified:" : "SeanDeNigris 3/3/2014 15:17",
+		"compileBoilerplateInitialize" : "SeanDeNigris 3/3/2014 17:19",
+		"containerClass" : "SeanDeNigris 3/3/2014 17:18",
+		"containerClass:" : "SeanDeNigris 3/3/2014 16:57",
+		"execute" : "SeanDeNigris 3/3/2014 17:57",
+		"initializeInstances" : "SeanDeNigris 3/3/2014 17:53",
+		"instVarName" : "SeanDeNigris 3/3/2014 17:14",
+		"instVarName:" : "SeanDeNigris 3/3/2014 16:56",
+		"targetClass:" : "SeanDeNigris 3/3/2014 15:19" } }

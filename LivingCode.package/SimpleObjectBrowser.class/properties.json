@@ -1,0 +1,14 @@
+{
+	"category" : "LivingCode-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "SeanDeNigris 9/25/2014 15:57",
+	"instvars" : [
+		 ],
+	"name" : "SimpleObjectBrowser",
+	"pools" : [
+		 ],
+	"super" : "SimpleToolMorph",
+	"type" : "normal" }

@@ -1,0 +1,25 @@
+{
+	"class" : {
+		"open" : "SeanDeNigris 1/24/2014 17:50",
+		"spec" : "SeanDeNigris 1/24/2014 12:59" },
+	"instance" : {
+		"bindings" : "SeanDeNigris 1/24/2014 17:56",
+		"bodyModel" : "SeanDeNigris 1/24/2014 12:59",
+		"commentModel" : "SeanDeNigris 1/24/2014 12:59",
+		"correctFrom:to:with:" : "SeanDeNigris 1/24/2014 15:54",
+		"editor" : "SeanDeNigris 1/24/2014 15:34",
+		"hasBindingOf:" : "SeanDeNigris 1/24/2014 17:25",
+		"hasBindingThatBeginsWith:" : "SeanDeNigris 1/24/2014 17:24",
+		"initializePresenter" : "SeanDeNigris 1/24/2014 19:38",
+		"initializeSyntaxHighlighting" : "SeanDeNigris 1/24/2014 22:54",
+		"initializeWidgets" : "SeanDeNigris 1/24/2014 19:36",
+		"methodArguments" : "SeanDeNigris 1/24/2014 18:31",
+		"modelClass" : "SeanDeNigris 1/24/2014 13:04",
+		"ok" : "SeanDeNigris 1/24/2014 16:04",
+		"paragraph" : "SeanDeNigris 1/24/2014 15:34",
+		"selectorModel" : "SeanDeNigris 1/24/2014 12:59",
+		"source" : "SeanDeNigris 1/24/2014 22:54",
+		"sourceCharsBeforeBody" : "SeanDeNigris 1/24/2014 15:40",
+		"text" : "SeanDeNigris 1/24/2014 15:35",
+		"textMorph" : "SeanDeNigris 1/24/2014 14:16",
+		"title" : "SeanDeNigris 1/24/2014 16:02" } }

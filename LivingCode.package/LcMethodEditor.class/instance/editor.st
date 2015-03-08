@@ -1,0 +1,4 @@
+compiling
+editor
+
+	^ self.

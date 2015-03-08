@@ -1,0 +1,14 @@
+{
+	"category" : "LivingCode-Core-Support",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "LcMethodTemplateMorph",
+	"pools" : [
+		 ],
+	"super" : "TextMorph",
+	"type" : "normal" }

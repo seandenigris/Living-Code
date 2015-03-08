@@ -1,0 +1,18 @@
+{
+	"category" : "LivingCode-Other",
+	"classinstvars" : [
+		"instance",
+		"jim" ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "SeanDeNigris 3/3/2014 15:16",
+	"instvars" : [
+		"targetClass",
+		"instVarName",
+		"containerClass",
+		"expressionString" ],
+	"name" : "InstVarInitializer",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

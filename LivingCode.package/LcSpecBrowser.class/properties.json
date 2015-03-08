@@ -1,0 +1,14 @@
+{
+	"category" : "LivingCode-UI",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "LcSpecBrowser",
+	"pools" : [
+		 ],
+	"super" : "TextModel",
+	"type" : "normal" }

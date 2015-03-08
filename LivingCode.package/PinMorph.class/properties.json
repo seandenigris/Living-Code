@@ -1,0 +1,14 @@
+{
+	"category" : "LivingCode-Core-Experiments",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "SeanDeNigris 1/24/2014 23:09",
+	"instvars" : [
+		"instVar" ],
+	"name" : "PinMorph",
+	"pools" : [
+		 ],
+	"super" : "ImageMorph",
+	"type" : "normal" }

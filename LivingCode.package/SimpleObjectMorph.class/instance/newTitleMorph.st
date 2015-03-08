@@ -1,0 +1,3 @@
+private - building
+newTitleMorph
+	^ '' asMorph

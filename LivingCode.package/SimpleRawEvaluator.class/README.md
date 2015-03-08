@@ -1,0 +1,1 @@
+(self for: Object new) asMorph openInWindow.

@@ -1,0 +1,14 @@
+{
+	"category" : "LivingCode-Core-Experiments",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "SeanDeNigris 2/9/2014 02:12",
+	"instvars" : [
+		"instanceBehaviors" ],
+	"name" : "Prototype",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

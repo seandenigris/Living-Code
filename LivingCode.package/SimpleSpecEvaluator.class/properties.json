@@ -1,0 +1,15 @@
+{
+	"category" : "LivingCode-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"object",
+		"getItButton" ],
+	"name" : "SimpleSpecEvaluator",
+	"pools" : [
+		 ],
+	"super" : "SimpleEmbeddableEditor",
+	"type" : "normal" }

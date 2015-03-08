@@ -1,0 +1,14 @@
+{
+	"category" : "LivingCode-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"symbol" ],
+	"name" : "LivingSelector",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

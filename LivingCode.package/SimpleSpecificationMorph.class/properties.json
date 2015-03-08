@@ -1,0 +1,14 @@
+{
+	"category" : "LivingCode-Core-Specification",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "SimpleSpecificationMorph",
+	"pools" : [
+		 ],
+	"super" : "SimpleToolMorph",
+	"type" : "normal" }

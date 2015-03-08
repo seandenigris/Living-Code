@@ -1,0 +1,1 @@
+I am a text field represention a message argument. When I am accepted, I send my selector to my target with my contents as the argument.
