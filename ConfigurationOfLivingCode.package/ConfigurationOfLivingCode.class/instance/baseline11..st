@@ -4,7 +4,7 @@ baseline11: spec
 
 	spec for: #'common' do: [
 		spec blessing: #'baseline'.
-		spec repository: 'http://smalltalkhub.com/mc/SeanDeNigris/SeansPlayground/main/'.
+		spec repository: 'http://smalltalkhub.com/mc/SeanDeNigris/LivingCode/main/'.
 		spec 
 			project: 'GrowableTextMorph' with: [
 				spec
@@ -18,7 +18,8 @@ baseline11: spec
 					loads: #('Core' );
 					repository: 'http://smalltalkhub.com/mc/Moose/PetitParser/main/' ].
 		spec 
-			package: 'MorphicExperiments';
+			package: 'MorphicExperiments' with: [
+				spec repository: 'http://smalltalkhub.com/mc/SeanDeNigris/SeansPlayground/main/' ];
+			package: #ScrollableWorldMorph;
 			package: 'LivingCode' with: [
-				spec requires: #(#PetitParser #GrowableTextMorph #MorphicExperiments #'ScrollableWorldMorph' ). ];
-			package: #'ScrollableWorldMorph'. ].
+				spec requires: #(#PetitParser #GrowableTextMorph #MorphicExperiments #ScrollableWorldMorph ). ]. ].

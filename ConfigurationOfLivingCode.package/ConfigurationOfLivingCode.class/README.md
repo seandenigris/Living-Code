@@ -1,5 +1,5 @@
 Gofer it
-	smalltalkhubUser: 'SeanDeNigris' project: 'SeansPlayground';
+	smalltalkhubUser: 'SeanDeNigris' project: 'LivingCode';
 	configurationOf: 'LivingCode';
 	loadDevelopment.
 	
