@@ -32,7 +32,7 @@ Things to note:
 An object, very much like an Outliner in the Self Language, will appear in your hand. Place it in the world wherever you want
 
 #### Scrolling in the World
-Just click and drag anywhere on the World's background
+Just use the mouse wheel, or click and drag anywhere on the World's background
 
 #### Navigating a Complex World
 Since grokking a complex world can be difficult, there is a RadarMorph, inspired by Self's RadarView.
