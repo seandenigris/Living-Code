@@ -1,3 +1,0 @@
-actions
-showInstanceMethods
-	self shouldBeImplemented.
