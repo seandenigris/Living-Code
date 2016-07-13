@@ -1,8 +1,8 @@
 instance creation
-slot: aString in: modelObject equals: valueObject
+slot: aSymbol in: modelObject equals: valueObject
 
 	^ self new
 		object: modelObject;
-		slotName: aString;
+		slotName: aSymbol;
 		slotValue: valueObject;
 		yourself.

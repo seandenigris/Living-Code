@@ -1,0 +1,14 @@
+{
+	"category" : "LivingCode",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "LcVirtualSlot",
+	"pools" : [
+		 ],
+	"super" : "LcSlot",
+	"type" : "normal" }

@@ -13,4 +13,3 @@ initializeSubmorphs
 		addMorphBack: spacerMorph;
 		addMorphBack: self newToolbar.
 	self addMorphBack: headerMorph.
-	self initializeSlotMorphs

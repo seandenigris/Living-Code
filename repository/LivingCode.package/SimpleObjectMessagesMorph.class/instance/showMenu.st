@@ -4,6 +4,5 @@ showMenu
 	
 	| menu |
 	menu := MenuMorph new.
-	menu add: 'New instance creation method' target: self action: #addInstanceCreationMethod.
-"	menu setInvokingView: self."
+	menu add: 'description' target: self action: #selector.
 	menu popUpEvent: self activeHand lastEvent in: self world.

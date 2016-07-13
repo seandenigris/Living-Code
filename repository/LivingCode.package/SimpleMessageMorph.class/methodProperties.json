@@ -4,6 +4,7 @@
 	"instance" : {
 		"addArgumentMorphFor:" : "SeanDeNigris 2/4/2015 14:59",
 		"addLabel:" : "SeanDeNigris 2/4/2015 14:53",
+		"arguments" : "SeanDeNigris 4/23/2015 12:56",
 		"browseMethod" : "SeanDeNigris 10/2/2014 19:15",
 		"delete" : "SeanDeNigris 1/28/2014 15:02",
 		"handlesMouseDown:" : "SeanDeNigris 11/23/2011 17:36",
@@ -17,7 +18,7 @@
 		"resetSubmorphs" : "SeanDeNigris 2/4/2015 14:58",
 		"selector" : "SeanDeNigris 1/26/2011 22:05",
 		"selector:" : "SeanDeNigris 1/28/2014 15:09",
-		"sendMessage" : "SeanDeNigris 10/2/2014 19:13",
+		"sendMessage" : "SeanDeNigris 4/23/2015 12:51",
 		"showSourceCode" : "SeanDeNigris 11/5/2014 00:25",
 		"styler" : "SeanDeNigris 1/28/2014 15:29",
 		"update:" : "SeanDeNigris 1/28/2014 15:11" } }

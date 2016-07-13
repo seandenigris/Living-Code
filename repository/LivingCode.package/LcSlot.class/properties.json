@@ -1,0 +1,15 @@
+{
+	"category" : "LivingCode",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"owner",
+		"name" ],
+	"name" : "LcSlot",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }
