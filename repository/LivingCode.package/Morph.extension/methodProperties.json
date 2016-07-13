@@ -4,7 +4,6 @@
 		"removeAllFromWorld" : "SeanDeNigris 11/23/2011 18:21",
 		"restoreDefaultMouseHandling" : "SeanDeNigris 11/22/2011 16:18" },
 	"instance" : {
-		"boundingBoxOfSubmorphs" : "SeanDeNigris 2/4/2015 23:08",
 		"drawRadarViewOn:" : "SeanDeNigris 2/5/2015 08:30",
 		"isLivingObject" : "SeanDeNigris 2/4/2015 11:42",
 		"selfWorld" : "SeanDeNigris 11/5/2014 00:31" } }
