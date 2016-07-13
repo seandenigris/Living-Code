@@ -12,11 +12,5 @@ initializeSubmorphs
 		addMorphBack: self newCommentButton;
 		addMorphBack: spacerMorph;
 		addMorphBack: self newToolbar.
-	slotMorph := self newMorphForSlotNamed: 'class'.
-	slotMorph beConstant.
-	packageSlotMorph := self newMorphForSlotNamed: 'package'.
-	packageSlotMorph beAssignable.
-	self
-		addMorphBack: headerMorph;
-		addMorphBack: slotMorph;
-		addMorphBack: packageSlotMorph.
+	self addMorphBack: headerMorph.
+	self initializeSlotMorphs
