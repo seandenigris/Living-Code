@@ -7,11 +7,10 @@ toggleClassComment
 		commentMorph := nil.
 		^ self ].
 	
-	comment := self object isClass
-		ifTrue: [ self object comment ]
-		ifFalse: [ self object class comment ].
+	comment := self object class comment.
 	commentMorph := TextModel new
 		text: comment;
+		acceptBlock: [ :txt | self object class comment: txt stamp: Author changeStamp ];
 		buildWithSpec.
 	commentMorph
 		hResizing: #rigid;
