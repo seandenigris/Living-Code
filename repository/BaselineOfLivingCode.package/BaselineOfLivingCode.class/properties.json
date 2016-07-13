@@ -1,0 +1,14 @@
+{
+	"category" : "BaselineOfLivingCode",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "BaselineOfLivingCode",
+	"pools" : [
+		 ],
+	"super" : "BaselineOf",
+	"type" : "normal" }
