@@ -1,4 +1,4 @@
-private - initialization
+private
 addSlotMorphs
 
 	object lcSlots do: [ :slot | | slotMorph |

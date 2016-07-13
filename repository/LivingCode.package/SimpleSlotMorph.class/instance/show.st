@@ -7,3 +7,4 @@ show
 	self selfWorld
 		addMorph: morph;
 		addMorph: (DirectionalConnector connect: self button to: morph).
+	self selfWorld centerMorph: morph

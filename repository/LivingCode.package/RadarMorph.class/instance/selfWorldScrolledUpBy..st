@@ -1,3 +1,3 @@
-world scroll handlers
+ignoring
 selfWorldScrolledUpBy: anInteger 
 	"Do nothing. We are sticky"

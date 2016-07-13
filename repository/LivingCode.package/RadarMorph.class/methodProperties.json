@@ -2,6 +2,7 @@
 	"class" : {
 		"icon" : "SeanDeNigris 2/5/2015 11:38" },
 	"instance" : {
+		"align:with:" : "SeanDeNigris 4/23/2015 14:09",
 		"drawOn:" : "SeanDeNigris 2/8/2015 11:48",
 		"drawRadarViewOn:" : "SeanDeNigris 2/5/2015 08:31",
 		"handlesMouseDown:" : "SeanDeNigris 2/5/2015 12:04",
