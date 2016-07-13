@@ -1,6 +1,6 @@
 *LivingCode
 generateKeyboardEvent: evtBuf
-	"Generate the appropriate mouse event for the given raw event buffer"
+	"Override to get horizontal scrolling"
 
 	| buttons modifiers type pressType stamp charCode keyValue keyEvent |
 	stamp := evtBuf second.
