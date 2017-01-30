@@ -1,0 +1,14 @@
+{
+	"category" : "LivingCode-Cookbook",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "LcCookbook",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }
