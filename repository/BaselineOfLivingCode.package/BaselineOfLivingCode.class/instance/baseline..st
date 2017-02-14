@@ -3,7 +3,11 @@ baseline: spec
 	<baseline>
 
 	spec for: #'common' do: [
-		spec 
+		spec
+			baseline: 'PharoEnhancements' with: [
+				spec repository: 'github://seandenigris/Pharo-Kernel-Extensions:master/repository' ];
+			baseline: 'ScrollableWorldMorph' with: [
+				spec repository: 'github://seandenigris/Scrollable-World-Morph:master/repository' ];
 			project: 'GrowableTextMorph' with: [
 				spec
 					className: #ConfigurationOfGrowableTextMorph;
@@ -18,8 +22,5 @@ baseline: spec
 		spec 
 			package: 'MorphicExperiments' with: [
 				spec repository: 'http://smalltalkhub.com/mc/SeanDeNigris/SeansPlayground/main/' ];
-			package: 'Morphic-Core' with: [
-				spec repository: 'github://seandenigris/Pharo-Kernel-Extensions:master/repository' ];
-			package: #ScrollableWorldMorph;
 			package: 'LivingCode' with: [
-				spec requires: #(#PetitParser #GrowableTextMorph #MorphicExperiments #ScrollableWorldMorph #'Morphic-Core'). ]. ].
+				spec requires: #(#PetitParser #GrowableTextMorph #MorphicExperiments #PharoEnhancements #ScrollableWorldMorph). ]. ].
