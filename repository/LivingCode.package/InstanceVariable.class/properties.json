@@ -1,15 +1,14 @@
 {
-	"category" : "LivingCode-Magritte",
-	"classinstvars" : [
-		 ],
-	"classvars" : [
-		 ],
 	"commentStamp" : "",
+	"super" : "Object",
+	"category" : "LivingCode-Magritte",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
 	"instvars" : [
 		"class",
-		"name" ],
+		"name"
+	],
 	"name" : "InstanceVariable",
-	"pools" : [
-		 ],
-	"super" : "Object",
-	"type" : "normal" }
+	"type" : "normal"
+}

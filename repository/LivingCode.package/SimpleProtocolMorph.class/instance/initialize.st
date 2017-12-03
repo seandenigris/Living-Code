@@ -22,7 +22,9 @@ initialize
 	self toggleExpansion.
 	toggleMorph on: #mouseUp send: #toggleExpansion to: self.
 
-	titleMorph := '' asMorph.
+	titleMorph := '' asText asMorph
+		textColor: Color black;
+		yourself.
 	headerMorph
 		addMorphBack: toggleMorph;
 		addMorphBack: titleMorph.

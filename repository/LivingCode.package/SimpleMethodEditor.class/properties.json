@@ -1,15 +1,14 @@
 {
-	"category" : "LivingCode-Core",
-	"classinstvars" : [
-		 ],
-	"classvars" : [
-		 ],
 	"commentStamp" : "",
+	"super" : "SimpleEmbeddableEditor",
+	"category" : "LivingCode-Core",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
 	"instvars" : [
 		"method",
-		"getItButton" ],
+		"getItButton"
+	],
 	"name" : "SimpleMethodEditor",
-	"pools" : [
-		 ],
-	"super" : "SimpleEmbeddableEditor",
-	"type" : "normal" }
+	"type" : "normal"
+}

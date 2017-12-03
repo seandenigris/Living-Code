@@ -1,16 +1,15 @@
 {
-	"category" : "LivingCode-Core",
-	"classinstvars" : [
-		 ],
-	"classvars" : [
-		 ],
 	"commentStamp" : "SeanDeNigris 1/28/2014 15:30",
+	"super" : "Morph",
+	"category" : "LivingCode-Core",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
 	"instvars" : [
 		"object",
 		"displayBehavior",
-		"controlsMorph" ],
+		"controlsMorph"
+	],
 	"name" : "UserObjectMorph",
-	"pools" : [
-		 ],
-	"super" : "Morph",
-	"type" : "normal" }
+	"type" : "normal"
+}

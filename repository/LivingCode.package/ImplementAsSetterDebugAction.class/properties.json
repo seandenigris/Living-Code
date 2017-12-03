@@ -1,14 +1,11 @@
 {
-	"category" : "LivingCode",
-	"classinstvars" : [
-		 ],
-	"classvars" : [
-		 ],
 	"commentStamp" : "<historical>",
-	"instvars" : [
-		 ],
-	"name" : "ImplementAsSetterDebugAction",
-	"pools" : [
-		 ],
 	"super" : "DebugAction",
-	"type" : "normal" }
+	"category" : "LivingCode",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "ImplementAsSetterDebugAction",
+	"type" : "normal"
+}

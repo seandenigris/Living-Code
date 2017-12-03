@@ -1,14 +1,11 @@
 {
-	"category" : "LivingCode-Specifications",
-	"classinstvars" : [
-		 ],
-	"classvars" : [
-		 ],
 	"commentStamp" : "",
-	"instvars" : [
-		 ],
-	"name" : "DeletableMorph",
-	"pools" : [
-		 ],
 	"super" : "Morph",
-	"type" : "normal" }
+	"category" : "LivingCode-Specifications",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "DeletableMorph",
+	"type" : "normal"
+}

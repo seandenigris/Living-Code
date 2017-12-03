@@ -1,14 +1,11 @@
 {
-	"category" : "LivingCode-Core-Experiments",
-	"classinstvars" : [
-		 ],
-	"classvars" : [
-		 ],
 	"commentStamp" : "",
-	"instvars" : [
-		 ],
-	"name" : "LivingObject",
-	"pools" : [
-		 ],
 	"super" : "Object",
-	"type" : "normal" }
+	"category" : "LivingCode-Core-Experiments",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "LivingObject",
+	"type" : "normal"
+}

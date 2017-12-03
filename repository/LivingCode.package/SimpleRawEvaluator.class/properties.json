@@ -1,15 +1,14 @@
 {
-	"category" : "LivingCode-Core",
-	"classinstvars" : [
-		 ],
-	"classvars" : [
-		 ],
 	"commentStamp" : "SeanDeNigris 2/13/2014 18:29",
+	"super" : "Object",
+	"category" : "LivingCode-Core",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
 	"instvars" : [
 		"text",
-		"object" ],
+		"object"
+	],
 	"name" : "SimpleRawEvaluator",
-	"pools" : [
-		 ],
-	"super" : "Object",
-	"type" : "normal" }
+	"type" : "normal"
+}

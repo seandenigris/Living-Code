@@ -1,14 +1,11 @@
 {
-	"category" : "LivingCode-Other",
-	"classinstvars" : [
-		 ],
-	"classvars" : [
-		 ],
 	"commentStamp" : "SeanDeNigris 1/28/2014 14:25",
-	"instvars" : [
-		 ],
-	"name" : "KentBeck",
-	"pools" : [
-		 ],
 	"super" : "Object",
-	"type" : "normal" }
+	"category" : "LivingCode-Other",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "KentBeck",
+	"type" : "normal"
+}

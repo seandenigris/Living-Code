@@ -1,14 +1,13 @@
 {
-	"category" : "LivingCode-Core",
-	"classinstvars" : [
-		 ],
-	"classvars" : [
-		 ],
 	"commentStamp" : "SeanDeNigris 1/28/2014 15:33",
-	"instvars" : [
-		"class" ],
-	"name" : "SimpleClassMorph",
-	"pools" : [
-		 ],
 	"super" : "SimpleToolMorph",
-	"type" : "normal" }
+	"category" : "LivingCode-Core",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"class"
+	],
+	"name" : "SimpleClassMorph",
+	"type" : "normal"
+}

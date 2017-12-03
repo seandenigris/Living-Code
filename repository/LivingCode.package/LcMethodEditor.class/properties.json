@@ -1,16 +1,15 @@
 {
-	"category" : "LivingCode-Core-Experiments",
-	"classinstvars" : [
-		 ],
-	"classvars" : [
-		 ],
 	"commentStamp" : "SeanDeNigris 1/24/2014 13:29",
+	"super" : "ComposableModel",
+	"category" : "LivingCode-Core-Experiments",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
 	"instvars" : [
 		"selectorModel",
 		"commentModel",
-		"bodyModel" ],
+		"bodyModel"
+	],
 	"name" : "LcMethodEditor",
-	"pools" : [
-		 ],
-	"super" : "ComposableModel",
-	"type" : "normal" }
+	"type" : "normal"
+}

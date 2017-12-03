@@ -1,14 +1,13 @@
 {
-	"category" : "LivingCode-Magritte",
-	"classinstvars" : [
-		 ],
-	"classvars" : [
-		 ],
 	"commentStamp" : "",
-	"instvars" : [
-		"instanceVariable" ],
-	"name" : "MagritteTypeChooserMorph",
-	"pools" : [
-		 ],
 	"super" : "DropListMorph",
-	"type" : "normal" }
+	"category" : "LivingCode-Magritte",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"instanceVariable"
+	],
+	"name" : "MagritteTypeChooserMorph",
+	"type" : "normal"
+}

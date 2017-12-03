@@ -5,4 +5,5 @@ initialize
 	self
 		contents: '';
 		width: 20;
-		backgroundColor: Color white.
+		backgroundColor: Color white;
+		textColor: Color black.

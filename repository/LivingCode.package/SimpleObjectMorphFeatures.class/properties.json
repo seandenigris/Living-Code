@@ -1,14 +1,11 @@
 {
-	"category" : "LivingCode-Specifications",
-	"classinstvars" : [
-		 ],
-	"classvars" : [
-		 ],
 	"commentStamp" : "",
-	"instvars" : [
-		 ],
-	"name" : "SimpleObjectMorphFeatures",
-	"pools" : [
-		 ],
 	"super" : "TestCase",
-	"type" : "normal" }
+	"category" : "LivingCode-Specifications",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "SimpleObjectMorphFeatures",
+	"type" : "normal"
+}

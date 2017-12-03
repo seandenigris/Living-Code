@@ -1,14 +1,11 @@
 {
-	"category" : "LivingCode-Core-Experiments",
-	"classinstvars" : [
-		 ],
-	"classvars" : [
-		 ],
 	"commentStamp" : "",
-	"instvars" : [
-		 ],
-	"name" : "SimpleMethodEditorMorph",
-	"pools" : [
-		 ],
 	"super" : "SystemWindow",
-	"type" : "normal" }
+	"category" : "LivingCode-Core-Experiments",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "SimpleMethodEditorMorph",
+	"type" : "normal"
+}

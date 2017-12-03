@@ -1,18 +1,17 @@
 {
-	"category" : "LivingCode-Core",
-	"classinstvars" : [
-		 ],
-	"classvars" : [
-		 ],
 	"commentStamp" : "SeanDeNigris 1/28/2014 19:02",
+	"super" : "Morph",
+	"category" : "LivingCode-Core",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
 	"instvars" : [
 		"nameMorph",
 		"valueMorph",
 		"slotName",
 		"slotValue",
-		"object" ],
+		"object"
+	],
 	"name" : "SimpleSlotMorph",
-	"pools" : [
-		 ],
-	"super" : "Morph",
-	"type" : "normal" }
+	"type" : "normal"
+}

@@ -1,16 +1,15 @@
 {
-	"category" : "LivingCode-Core",
-	"classinstvars" : [
-		 ],
-	"classvars" : [
-		 ],
 	"commentStamp" : "",
+	"super" : "ComposableModel",
+	"category" : "LivingCode-Core",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
 	"instvars" : [
 		"text",
 		"closeButton",
-		"yankOutButton" ],
+		"yankOutButton"
+	],
 	"name" : "SimpleEmbeddableEditor",
-	"pools" : [
-		 ],
-	"super" : "ComposableModel",
-	"type" : "normal" }
+	"type" : "normal"
+}

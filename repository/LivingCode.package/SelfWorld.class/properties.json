@@ -1,17 +1,16 @@
 {
-	"category" : "LivingCode-UI",
-	"classinstvars" : [
-		 ],
-	"classvars" : [
-		 ],
 	"commentStamp" : "SeanDeNigris 10/2/2014 16:54",
+	"super" : "ComposableModel",
+	"category" : "LivingCode-UI",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
 	"instvars" : [
 		"realWorld",
 		"browserModel",
 		"worldModel",
-		"toolbarModel" ],
+		"toolbarModel"
+	],
 	"name" : "SelfWorld",
-	"pools" : [
-		 ],
-	"super" : "ComposableModel",
-	"type" : "normal" }
+	"type" : "normal"
+}

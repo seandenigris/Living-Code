@@ -1,15 +1,14 @@
 {
-	"category" : "LivingCode-Core-Support",
-	"classinstvars" : [
-		 ],
-	"classvars" : [
-		 ],
 	"commentStamp" : "SeanDeNigris 1/28/2014 15:19",
+	"super" : "GrowableTextMorph",
+	"category" : "LivingCode-Core-Support",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
 	"instvars" : [
 		"selector",
-		"target" ],
+		"target"
+	],
 	"name" : "ArgumentTextMorph",
-	"pools" : [
-		 ],
-	"super" : "GrowableTextMorph",
-	"type" : "normal" }
+	"type" : "normal"
+}

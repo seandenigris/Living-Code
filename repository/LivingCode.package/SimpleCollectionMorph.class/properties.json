@@ -1,19 +1,18 @@
 {
-	"category" : "LivingCode-Core",
-	"classinstvars" : [
-		 ],
-	"classvars" : [
-		 ],
 	"commentStamp" : "SeanDeNigris 1/28/2014 15:35",
+	"super" : "SimpleToolMorph",
+	"category" : "LivingCode-Core",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
 	"instvars" : [
 		"object",
 		"titleMorph",
 		"slotMorph",
 		"headerMorph",
 		"commentMorph",
-		"packageSlotMorph" ],
+		"packageSlotMorph"
+	],
 	"name" : "SimpleCollectionMorph",
-	"pools" : [
-		 ],
-	"super" : "SimpleToolMorph",
-	"type" : "normal" }
+	"type" : "normal"
+}
