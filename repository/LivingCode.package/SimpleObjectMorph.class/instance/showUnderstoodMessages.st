@@ -1,4 +1,4 @@
-private
+actions
 showUnderstoodMessages
 
 	| messageList |
