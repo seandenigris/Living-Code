@@ -1,3 +1,5 @@
 private - building
 newTitleMorph
-	^ '' asMorph
+	^ '' asText asMorph
+			textColor: Color black;
+			yourself
