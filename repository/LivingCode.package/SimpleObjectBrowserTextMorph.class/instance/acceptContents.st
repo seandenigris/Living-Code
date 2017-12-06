@@ -3,5 +3,5 @@ acceptContents
 
 	| object |
 	object := Compiler evaluate: self contents asString.
-	self openObject: object.
+	object lcPickUp.
 	self contents: ''.
