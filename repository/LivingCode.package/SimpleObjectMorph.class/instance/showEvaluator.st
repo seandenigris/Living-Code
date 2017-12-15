@@ -1,7 +1,10 @@
 actions
 showEvaluator
 
-	| evaluator |
+	| evaluator morph |
 	evaluator := self newEvaluator.
-	self addMorphBack: evaluator buildWithSpec.
+	morph := evaluator buildWithSpec
+		vResizing: #rigid;
+		yourself.
+	self addMorphBack: morph.
 	evaluator takeKeyboardFocus.

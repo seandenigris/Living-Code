@@ -2,6 +2,7 @@ initialization
 initializeWidgets
 	
 	text := self newText
+		beForCode;
 		text: 'self ';
 		yourself.
 	getItButton := self newButton
