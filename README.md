@@ -3,19 +3,21 @@ LivingCode
 
 How do we make the IDE more like real life - live, direct, and fun!
 
-Source Code
-------------------
-The LivingCode package is hosted at http://smalltalkhub.com/#!/~SeanDeNigris/LivingCode. This github repo is for documentation, issue tracking, etc.
-
 Installation
 ------------------
 
-The development version should work in Pharo's stable version (which is 3.0 at the time of this writing)
+[GToolkit](https://gtoolkit.com) is the reference platform, but the goal is for it to also work in the latest Pharo release
 
-	Gofer it
-		smalltalkhubUser: 'SeanDeNigris' project: 'LivingCode';
-		configurationOf: 'LivingCode';
-		loadDevelopment.
+```smalltalk
+[
+	EpMonitor current disable.
+	[ Metacello new
+		baseline: 'LivingCode';
+		repository: 'github://seandenigris/Living-Code/repository';
+		"onConflict: [ :ex | ex allow ];"
+		load ] ensure: [ EpMonitor current enable ].
+] fork.
+```
 		
 Quick Start Tutorial
 ------------------
